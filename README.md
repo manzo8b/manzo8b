@@ -8,7 +8,7 @@ Creo strumenti pratici per trasformare l'AI in lavoro reale: formazione, ristora
 
 ### Marcelus.v.v01
 
-Framework italiano di prompt engineering professionale con **801 prompt** pronti all'uso.
+Framework italiano di prompt engineering professionale con **1001 prompt** pronti all'uso.
 
 Include prompt per:
 
@@ -20,6 +20,10 @@ Include prompt per:
 - informazioni di quartiere;
 - album musicali con SUNO;
 - programmazione, risk management, code creation, antiriciclaggio, sicurezza aziendale e Terminal Mac;
+- spesa familiare, consumi, convenienza e tecniche di acquisto;
+- analisi finanziarie e banche;
+- F&B tradizionale, turistico, spiaggia e servizio all ombrellone;
+- contabilita ristorativa, andamento bar, proiezioni e miglioramento gestionale;
 - analisi di tesi universitaria.
 
 [Apri Marcelus.v.v01](https://github.com/manzo8b/marcelus-v-v01)
