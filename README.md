@@ -8,7 +8,7 @@ Creo strumenti pratici per trasformare l'AI in lavoro reale: formazione, ristora
 
 ### Marcelus.v.v01
 
-Framework italiano di prompt engineering professionale con **1251 prompt pubblici + 100 premium privati** pronti all'uso.
+Framework italiano di prompt engineering professionale con **1301 prompt pubblici + 100 premium privati** pronti all'uso.
 
 Include prompt per:
 
