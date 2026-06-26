@@ -28,6 +28,7 @@ Include prompt per:
 - politica, partiti e analisi neutrale;
 - GitHub pratico, portfolio e monetizzazione;
 - sicurezza aziendale, risorse umane, studio medico e cardiologia informativa;
+- problemi in autostrada, forature, carro attrezzi, gommista, assicurazione e verifica legale;
 - analisi di tesi universitaria.
 
 [Apri Marcelus.v.v01](https://github.com/manzo8b/marcelus-v-v01)
