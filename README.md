@@ -8,7 +8,7 @@ Creo strumenti pratici per trasformare l'AI in lavoro reale: formazione, ristora
 
 ### Marcelus.v.v01
 
-Framework italiano di prompt engineering professionale con **1301 prompt pubblici + 100 premium privati** pronti all'uso.
+Framework italiano di prompt engineering professionale con **1451 prompt pubblici + 100 premium privati** pronti all'uso.
 
 Include prompt per:
 
@@ -29,6 +29,8 @@ Include prompt per:
 - GitHub pratico, portfolio e monetizzazione;
 - sicurezza aziendale, risorse umane, studio medico e cardiologia informativa;
 - problemi in autostrada, forature, carro attrezzi, gommista, assicurazione e verifica legale;
+- prevenzione cittadini, caldo, blackout, fragilita e salute quotidiana;
+- Pronto Soccorso, medico di famiglia, attese, triage e comunicazione sanitaria;
 - analisi di tesi universitaria.
 
 [Apri Marcelus.v.v01](https://github.com/manzo8b/marcelus-v-v01)
