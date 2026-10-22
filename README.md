@@ -1,21 +1,21 @@
 # Marcelo Fernandez
 
-Training and AI workflow projects, with a background in Food & Beverage operations and professional training.
+**AI Evaluation · Instruction Design · Practical Training Workflows**
 
-## MARCELUS AI LAB
+I combine experience in hospitality operations and vocational training with personal projects in AI-output evaluation, clear instructions and workflow design.
 
-[Open the portfolio](https://manzo8b.github.io/marcelus-v-v01/) · [Italiano](https://manzo8b.github.io/marcelus-v-v01/it/) · [Espanol](https://manzo8b.github.io/marcelus-v-v01/es/) · [Recruiter overview](https://manzo8b.github.io/marcelus-v-v01/recruiter/)
+**[Portfolio](https://manzo8b.github.io/marcelus-v-v01/it/)** · **[Recruiter overview](https://manzo8b.github.io/marcelus-v-v01/it/recruiter/)** · [Source and cases](https://github.com/manzo8b/marcelus-v-v01) · [LinkedIn](https://www.linkedin.com/in/marcelo-fernandez-cab/)
 
-- **VERUM**: claim analysis, source review, uncertainty and documented fact-checking limits.
-- **Prometeus**: instruction design, evaluation rubric and a searchable catalogue of 2060 historical entries across 26 areas, plus six separately labelled editorial workflow templates.
-- **RISTO-LAB**: procedures, onboarding and training materials for hospitality operations.
+## Selected work
 
-These are personal proof-of-work projects with documented examples and deterministic demos, not independent model benchmarks or claims of paid AI evaluation experience.
+| Project | Focus | Evidence |
+| --- | --- | --- |
+| **VERUM** | Source-aware fact-checking and a distinct reference-based AI-output review workflow | [Case study](https://manzo8b.github.io/marcelus-v-v01/it/cases/fact-check-renewables/) |
+| **Prometeus Marcelus** | Instruction design, rubrics and prompt evaluation | [Documented rubric case](https://github.com/manzo8b/marcelus-v-v01/blob/main/AI_EVALUATION_PORTFOLIO/CASE_02_PROMETEUS_RUBRIC_DESIGN.md) |
+| **RISTO-LAB** | Hospitality training, practical procedures and teaching workflows | [Training case](https://github.com/manzo8b/marcelus-v-v01/blob/main/AI_EVALUATION_PORTFOLIO/CASE_03_LANGUAGE_QUALITY.md) |
 
-## Focus
+The RISTO-LAB Instructor Hub is currently a **separate local prototype**, not a publicly accessible training platform. Case studies and demos are personal proof of work, not independent model benchmarks or paid AI-evaluation credentials.
 
-Content evaluation, instruction design, language quality, process documentation and AI-assisted training workflows.
+**Languages:** Spanish (native); Italian (professional use, CELI B1 certification); English (self-reported B1).
 
-Spanish: native. Italian: professional use, CELI B1 certification. English: B1, self-reported and not certified.
-
-[Source and case studies](https://github.com/manzo8b/marcelus-v-v01) · [Professional contact on LinkedIn](https://www.linkedin.com/in/marcelo-fernandez-cab/)
+[Italiano](https://manzo8b.github.io/marcelus-v-v01/it/) · [English](https://manzo8b.github.io/marcelus-v-v01/) · [Español](https://manzo8b.github.io/marcelus-v-v01/es/)
