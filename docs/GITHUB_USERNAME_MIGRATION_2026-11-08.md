@@ -22,7 +22,7 @@ Public:
 - `Lune_X` — artist site: `https://manzo8b.github.io/Lune_X/`.
 - `README.md` — historical archive, do not confuse with the profile repository.
 
-Private (names only; do not expose files or links): `AI-Training`, `marcelus-premium-private`, `oiko-commercial`, `oiko-family-private`, `regula-evidence-impact-engine`, `villapitosfori`.
+Private: six additional repositories. Their identities, source files and integrations must be reviewed privately; do not publish their inventory.
 
 ### Special risks
 
@@ -54,21 +54,29 @@ Private (names only; do not expose files or links): `AI-Training`, `marcelus-pre
 
 ## Phase 2 — create *reviewable* URL PRs after rename
 
-On a Mac, install/authenticate GitHub CLI (`gh`), Git and Python 3.10+, then clone the profile repository. The helper uses only text files and leaves all ZIPs and media untouched.
+On a Mac, install/authenticate GitHub CLI (`gh`), Git and Python 3.10+. The helper uses only text files and leaves all ZIPs and media untouched.
+
+**Before the account rename**, you may run a read-only inventory against the current profile repository:
 
 ```bash
 gh auth login
+gh repo clone manzo8b/manzo8b
+cd manzo8b
+python3 scripts/post_rename_url_prs.py --workdir ./audit-old
+```
+
+**After changing the username and renaming the profile repository**, clone the *new* profile repository into a fresh directory and run one of the following alternatives:
+
+```bash
 gh repo clone marcelo-fernandez/marcelo-fernandez
 cd marcelo-fernandez
 
-# Pre-rename only: read-only inventory using old owner.
-python3 scripts/post_rename_url_prs.py --workdir ./audit-old
-
-# POST-RENAME ONLY: username must already be marcelo-fernandez.
+# Public repositories only: create reviewable PRs, never merge automatically.
 python3 scripts/post_rename_url_prs.py --apply --workdir ./migration-public
 
-# Private repositories require a separate explicit review.
-python3 scripts/post_rename_url_prs.py --apply --include-private --workdir ./migration-all
+# Alternatively, if private repos are also explicitly ready for review,
+# run this INSTEAD of the public-only command (to avoid duplicate PRs):
+# python3 scripts/post_rename_url_prs.py --apply --include-private --workdir ./migration-all
 ```
 
 **Important:** `--apply` pushes branches and opens PRs; it does **not** merge them. Do not run both public and all-repo commands with duplicate PR branches unless the first batch is already reconciled. For review-only scanning after rename, use separate fresh work directories or inspect the generated PRs. The profile repository name must be updated before cloning the example above.
