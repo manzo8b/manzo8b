@@ -6,6 +6,12 @@ I build practical, documented digital experiences at the intersection of **AI li
 
 **[Portfolio](https://manzo8b.github.io/marcelus/it/)** · **[English portfolio](https://manzo8b.github.io/marcelus/)** · **[Español](https://manzo8b.github.io/marcelus/es/)** · **[Recruiter overview](https://manzo8b.github.io/marcelus/it/recruiter/)** · **[LinkedIn](https://www.linkedin.com/in/marcelo-fernandez-cab/)**
 
+## Featured release — MARCELUS WebFoundry v0.3
+
+**[Explore the SKILL + Python source](https://github.com/manzo8b/marcelus/tree/main/WEBFOUNDRY)** · [Agent Skill specification](https://github.com/manzo8b/marcelus/blob/main/WEBFOUNDRY/webfoundry/SKILL.md) · [Run the tests](https://github.com/manzo8b/marcelus/tree/main/WEBFOUNDRY/webfoundry/tests)
+
+A practical static-site engine: **one validated JSON brief → five linked HTML pages → reproducible structural QA**, with original visual direction and support for Education, Hospitality, Compliance, Tourism and Creators. No paid API needed. This is an inspectable technical demo, not a hosted autonomous AI service; human review remains required. If useful, you can **star [MARCELUS](https://github.com/manzo8b/marcelus)** to follow its development.
+
 ## Explore the projects
 
 | Project | What you can explore | Links |
